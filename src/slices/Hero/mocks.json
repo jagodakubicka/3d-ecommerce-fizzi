@@ -1,0 +1,99 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Deserunt culpa do nulla ea ea ipsum elit nisi. Ullamco voluptate duis ex eu quis ullamco."
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Capital"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Dolor fugiat ad quis amet labore mollit aliquip culpa laboris ad dolore ipsum cillum enim nulla. Ut aliqua sit ut cupidatat fugiat et est reprehenderit. Sint Lorem veniam occaecat ipsum voluptate deserunt dolor dolore eiusmod magna ut et id fugiat id."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "riding",
+				"type": "Text"
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev"
+				}
+			},
+			"cans_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a",
+					"width": 3456,
+					"height": 4320
+				},
+				"url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a",
+				"width": 3456,
+				"height": 4320,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"second_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Older"
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Est mollit aute commodo nulla ex nulla."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
