@@ -9,7 +9,7 @@ import { Bounded } from "@/components/Bounded";
 import Button from "@/components/Button";
 import { TextSplitter } from "@/components/TextSplitter";
 import { View } from "@react-three/drei";
-import Scene from "./scene";
+import Scene from "./Scene";
 
 gsap.registerPlugin(useGSAP, ScrollTrigger);
 /**
